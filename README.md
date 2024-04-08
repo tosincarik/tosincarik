@@ -1,11 +1,11 @@
 <h1>Hi, I'm Tosin! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Science Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Management and Analysis :</h2>
 
 - <b>Data Analysis in Power BI </b>
   - [Data Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics) 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b> Regression Model Predictive Analysis </b>
+  - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/ChanceAdmission.ipynb) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
