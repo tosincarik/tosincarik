@@ -14,7 +14,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: (https://twitter.com/_thebabatee)
+[twitter]: https://twitter.com/_thebabatee
 [linkedin]: https://www.linkedin.com/in/oluwatosin-oyeladun-234a8a42/
 
 <!--
