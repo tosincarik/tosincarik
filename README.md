@@ -4,7 +4,7 @@
 
 - <b>Data Analysis in Power BI </b>
   - [Data Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics) 
-- <b> Regression Model Predictive Analysis udsing Python </b>
+- <b> Regression Model Predictive Analysis using Python </b>
   - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/ChanceAdmission.ipynb) <b>
 
 
