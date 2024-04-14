@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Management and Analysis :</h2>
 
 - <b>Data Analysis in Power BI </b>
-  - [Data Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics) 
+  - [Sales Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics) 
 - <b> Regression Model Predictive Analysis using Python </b>
   - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/ChanceAdmission.ipynb) <b>
 
