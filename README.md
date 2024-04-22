@@ -7,7 +7,8 @@
 - <b> Regression Model Predictive Analysis using Python </b>
   - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/Chance%20of%20Admit.ipynb) <b>
 - <b> End to End Fabric Analytics Solution using Kaggle Dataset </b>
-  - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/Chance%20of%20Admit.ipynb) <b>
+  - [Python Code](https://github.com/tosincarik/Fabric-Analytics/blob/main/Notebook_Illicit%20Drugs.ipynb) <b>
+    - [Readme/Documentation](https://github.com/tosincarik/Fabric-Analytics/blob/main/Notebook_Illicit%20Drugs.ipynb) <b>
 
 
 <h2> 🤳 Connect with me:</h2>
