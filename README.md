@@ -6,6 +6,8 @@
   - [Sales Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics) 
 - <b> Regression Model Predictive Analysis using Python </b>
   - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/Chance%20of%20Admit.ipynb) <b>
+- <b> End to End Fabric Analytics Solution using Kaggle Dataset </b>
+  - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/Chance%20of%20Admit.ipynb) <b>
 
 
 <h2> 🤳 Connect with me:</h2>
