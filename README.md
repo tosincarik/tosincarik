@@ -3,6 +3,9 @@ A seasoned BI Developer, Data Analyst and SQL Developer with over three years of
 
 <h2>👨‍💻 Data Management and Analysis :</h2>
 
+
+- <b>ETL and ML with Microsoft Fabric </b>
+  - [ETL Project](https://github.com/tosincarik/End-to-End-ETL-ML-PowerBI-using-Microsoft-Fabric) 
 - <b>Data Analysis in Power BI </b>
   - [Sales Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics) 
 - <b> Regression Model Predictive Analysis using Python </b>
