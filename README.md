@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tosin! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Science Professional</a></h1>
+<h1>Hi, I'm Tosin! <br/><a href="https://github.com/tosincarik">Data Analyst</a>, <a href="https://www.linkedin.com/in/oluwatosin-oyeladun-234a8a42//">Data Science Professional</a></h1>
 A seasoned BI Developer, Data Analyst and SQL Developer with over three years of hands-on experience analysisng data in expansive data warehouses and a multitude of datasets spanning various industries. My primary goal is to empower stakeholders with pivotal business insights
 
 <h2>👨‍💻 Data Management and Analysis :</h2>
