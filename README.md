@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tosin! <br/><a href="https://github.com/tosincarik">Data and AI professional</a>/<a href="https://www.linkedin.com/in/oluwatosin-oyeladun-234a8a42//">Data Science Professional</a></h1>
+<h1>Hi, I'm Tosin! <br/><a href="https://github.com/tosincarik">Data and AI professional</a>/<a href="https://www.linkedin.com/in/oluwatosin-oyeladun-234a8a42//"></a></h1>
 A seasoned BI Developer, Data Analyst, and SQL Developer with over five years of hands-on experience analyzing large, complex datasets across diverse industries. Skilled in data storytelling, predictive modeling, and automation, I leverage tools like Power BI, Python, and machine learning to deliver actionable insights and drive data-informed decisions. Passionate about using AI and analytics to solve real-world problems and empower stakeholders with clear, impactful business intelligence.
 
 
