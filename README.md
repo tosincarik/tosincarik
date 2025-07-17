@@ -3,15 +3,13 @@ A seasoned BI Developer, Data Analyst and SQL Developer with over Five years of 
 
 
 <h2>👨‍💻 AI/ML/Data Engineering :</h2>
+
 - <b> Regression Model Predictive Analysis using Python </b>
   - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/Chance%20of%20Admit.ipynb) <b>
     
 - <b>ETL and ML with Microsoft Fabric </b>
   - [ETL Project](https://github.com/tosincarik/End-to-End-ETL-ML-PowerBI-using-Microsoft-Fabric) 
 
-- <b> End to End Fabric Analytics Solution using Kaggle Dataset </b>
-  - [Python Code](https://github.com/tosincarik/Fabric-Analytics/blob/main/Notebook_Illicit%20Drugs.ipynb) <b>
-   - [Readme/Documentation](https://github.com/tosincarik/Fabric-Analytics/blob/main/_README.md) <b>
 
 <h2>👨‍💻 Data Management and Analysis :</h2>
 
