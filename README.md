@@ -18,9 +18,11 @@ A seasoned data professional with over five years of hands-on experience analyzi
 <h2>👨‍💻 Data Management and Analysis :</h2>
 
 - <b>Data Analysis in Power BI </b>
-  - [Sales Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics) 
+  - [Sales Analytics Report](https://github.com/tosincarik/Sales-Data-Analytics)
+    
 - <b> Regression Model Predictive Analysis using Python </b>
   - [Chance of Admission](https://github.com/tosincarik/Regression-Model/blob/main/Chance%20of%20Admit.ipynb) <b>
+  
 - <b> End to End Fabric Analytics Solution using Kaggle Dataset </b>
   - [Python Code](https://github.com/tosincarik/Fabric-Analytics/blob/main/Notebook_Illicit%20Drugs.ipynb) <b>
   
@@ -35,7 +37,7 @@ A seasoned data professional with over five years of hands-on experience analyzi
 
 [twitter]: https://twitter.com/_thebabatee
 [linkedin]: https://www.linkedin.com/in/oluwatosin-oyeladun-234a8a42/
-
+[Medium] : https://medium.com/@Toyeladun
 <!--
 **tosincarik/tosincarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
